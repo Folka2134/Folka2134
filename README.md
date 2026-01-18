@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/folka2134"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=240952&center=true&vCenter=true&width=435&lines=Developer;SOC+Analyst" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/folka2134"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=330099&center=true&vCenter=true&width=435&lines=Developer;SOC+Analyst" alt="Typing SVG" align="center"/></a>
 </p>
 
 ```go
