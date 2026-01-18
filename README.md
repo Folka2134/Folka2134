@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/folka2134"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Developer;SOC Analyst" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/folka2134"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Developer;SOC+Analyst" alt="Typing SVG" align="center"/></a>
 </p>
 
   <img src="https://avatars.githubusercontent.com/u/58298060?v=4" align="left" width="50" height="50" alt="image"/>
@@ -10,7 +10,7 @@ package main
 
 import "fmt"
 
-type haq struct {
+type folka struct {
 	Name, Role, Portfolio string
 	LanguageSpoken        []string
 }
