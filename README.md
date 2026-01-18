@@ -1,9 +1,9 @@
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Hacker;Developer" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/folka2134"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Developer;SOC Analyst" alt="Typing SVG" align="center"/></a>
 </p>
 
-  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
+  <img src="https://avatars.githubusercontent.com/u/58298060?v=4" align="left" width="50" height="50" alt="image"/>
 
 ```go
 package main
@@ -16,11 +16,11 @@ type haq struct {
 }
 
 func main() {
-	me := haq{
-		Name: "haq",
-		Role: "hacker, developer",
+	me := folka{
+		Name: "folka",
+		Role: "developer, SOC analyst",
 		LanguageSpoken: []string{"en_US"},
-		Portfolio: "https://1hehaq.vercel.app",
+		Portfolio: "https://folka-portfolio.vercel.app/",
 	}
 
 	fmt.Println("Thanks for stopping by!")
