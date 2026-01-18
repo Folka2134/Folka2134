@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Folka2134
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can reach me at folka2134@gmail.com
+package main
 
-<!---
-Folka2134/Folka2134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import "fmt"
+
+type haq struct {
+	Name, Role, Portfolio string
+	LanguageSpoken        []string
+}
+
+func main() {
+	me := folka{
+		Name: "folka",
+		Role: "developer, SOC analyst",
+		LanguageSpoken: []string{"en_US"},
+		Portfolio: "[https://1hehaq.vercel.app](https://folka-portfolio.vercel.app/)",
+	}
+
+	fmt.Println("Thanks for stopping by!")
+	fmt.Println("Check out my portfolio at:", me.Portfolio)
+}
