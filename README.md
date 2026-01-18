@@ -17,7 +17,7 @@ func main() {
 	me := folka{
 		Name: "folka",
 		Role: "developer, SOC analyst",
-		LanguageSpoken: []string{"en_US"},
+		LanguageSpoken: []string{"en_US,en_GB,ja-JP"},
 		Portfolio: "https://folka-portfolio.vercel.app/",
 	}
 
